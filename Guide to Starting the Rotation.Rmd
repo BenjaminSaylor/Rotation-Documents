@@ -1,0 +1,66 @@
+---
+title: "Useful References for Starting the Molecular Pathology Rotation"
+author: "Benjamin Saylor, MD _(bsaylor@uabmc.edu)_"
+
+date: "12/23/2019"
+output:
+  pdf_document:
+    number_sections: TRUE
+    toc: TRUE
+    df_print: paged
+---
+
+# Purpose
+
+Molecular and Genetic Pathology is a complex area that differs from most of the other rotations that residents have rotated on. Depending on the various backgrounds that residents have, some have little to no exposure to molecular and genetic techniques. I hope that this document will provide an overview of some material for starting the rotation.
+
+Unlike most rotations, there is not one single reference that covers all the material that maybe expected for residents to learn on the rotation--and which will show up again on the RISE exam and increasingly on the AP and CP boards. 
+
+# Molecular Techniques
+
+The variety of lab techniques can be overwhelming for some new residents. However, there exists a great resource that provides brief overviews of most methods: YouTube. Below is a list of some videos that will be useful explaining many of the techniques we use at UAB or are commonly consulted about.
+
+## Sanger Sequencing:
+  1. Sanger sequencing (<https://www.youtube.com/watch?v=KTstRrDTmWI>)
+
+## Next Generation Sequencing (NGS):
+  1. NGS introduction from Applied Biological Materials (<https://www.youtube.com/watch?v=jFCD8Q6qSTM>).
+  2. Illumina Sequencing by Synthesis (<https://www.youtube.com/watch?v=fCd6B5HRaZ8>).
+  3. Ion torrent sequencing (<https://www.youtube.com/watch?v=WYBzbxIfuKs>).
+
+## Real Time/ Quantitative PCR. used at UAB for JAK2 V617F:
+  1. Overview of qPCR from New England Biolabs (<https://www.youtube.com/watch?v=1kvy17ugI4w>).
+  
+## NGS Data Analysis aka. "The Pipeline".
+  1. NGS Data Analysis from Applied Biological Materials (<https://www.youtube.com/watch?v=l4BAfRekohk>). This is an excellent overview of how NGS variant files are generated.
+ 
+ 
+# Training Residents in Genomics (TRIG)
+
+On the ASCP website (<http://www.pathologylearning.org/trig/resources>) are online modules for the TRIG curriculum. The goal of TRIG is to provide an overview of Genomic Medicine via a series of fairly short hands on modules for individuals or groups. This curriculum has been offered at UAB in the past. However, if you have not attended the UAB TRIG courses, the material is free if you register on the bottom of the webpage. The curriculum has also been recently updated to reflect newer techniques, a wider variety of cases, and updated material based on prior feedback. 
+
+__This curriculum has been designed specifically for residents with little to no experience in molecular or genomic medicine and provides a good foundation of knowledge for the RISE exam and AP/CP board exams.__
+
+_Note: I have served on the TRIG working committee and have helped with the creation of this material. I have no financial interest in TRIG or ASCP._
+
+
+# Books
+
+There are many books available that cover the basics of Molecular Genetic Pathology. A few are listed below.
+
+  1. _Diagnostic Molecular Pathology in Practice: A Case-Based Approach_. This book is an older text with some outdated methodology. However, the solid tumor and hematopathology chapters cover a wide variety of methodologies. These chapters are very useful to understand how some of the tests work, what the underlying genetic issue is, and how to interpret the tests. Additionally, the book is readable. 
+  2. _Genomic Medicine: A Practical Guide. This is a newer book from October 2019_. The first few chapters cover the basics of genomic medicine techniques and report interpretation. These chapters are highly recommended. The later chapters serve as short primers on many solid tumor and hematologic entities. The text is very readable but there are tables that cover many of the commonly identified variants. Like the prior book, the text is highly readable and the chapters are quick. __There is a resident copy of this book available to the the resident on the rotation.__
+  3. _Genomic Applications in Pathology_. This is more technical book and provides more in depth information than the prior texts. It serves as a good reference for questions. __There is a resident copy of this book available to the the resident on the rotation.__
+  
+# Webpages
+
+There are copious useful webpages to reference information relevant to the resident on the molecular rotation. A few of the more commonly used ones are below.
+
+  1. Catalogue of Somatic Mutations in Cancer, COSMIC: (<https://cancer.sanger.ac.uk/cosmic>);  This is one of the most commonly used sites for referencing NGS detected variants. The database provides unique identifiers for each variant. Additionally, it can be used to identify Hotspot areas of proteins, diseases that the mutation has been identified in, Pfam domains (commonly identified protein motifs like DNA binding domains), and a whole host of other useful information.
+  2. cBioPortal for Cancer Genomics: (<https://www.cbioportal.org/>). cBioportal is a useful database to search for various protein mutations and Pfam domain information. Much of the information here is also present in COSMIC.
+  3. UniProt: (<https://www.uniprot.org/>). Much of the information in UniProt is now found in COSMIC but UniProt can be a near "one stop shop" for information in proteins including: Sequence, Catalytic Activity (if known), binding/active site, cellular location, disease, amino acid changes, tissue expression, and more. It also includes links to various other databases.
+  4. International Agency for Research on Cancer TP53 Database: IARC TP53 Database: (<http://p53.iarc.fr/>). This is a WHO data base that: "The IARC TP53 Database compiles various types of data and information on human TP53 gene variations related to cancer. Data are compiled from the peer-reviewed literature and from generalist databases." This database is useful when assessing various TP53 mutations identified from NGS.
+  5. Expertpath: (<https://www.expertpath.com/>). This site should be familiar to all the residents and provides and excellent overview of almost every disease including key molecular diagnostic and prognostic factors. 
+  
+
+
