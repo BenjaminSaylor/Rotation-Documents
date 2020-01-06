@@ -8,6 +8,7 @@ output:
     number_sections: TRUE
     toc: TRUE
     df_print: paged
+urlcolor: blue
 ---
 
 # Purpose
@@ -57,10 +58,20 @@ There are many books available that cover the basics of Molecular Genetic Pathol
 There are copious useful webpages to reference information relevant to the resident on the molecular rotation. A few of the more commonly used ones are below.
 
   1. Catalogue of Somatic Mutations in Cancer, COSMIC: (<https://cancer.sanger.ac.uk/cosmic>);  This is one of the most commonly used sites for referencing NGS detected variants. The database provides unique identifiers for each variant. Additionally, it can be used to identify Hotspot areas of proteins, diseases that the mutation has been identified in, Pfam domains (commonly identified protein motifs like DNA binding domains), and a whole host of other useful information.
-  2. cBioPortal for Cancer Genomics: (<https://www.cbioportal.org/>). cBioportal is a useful database to search for various protein mutations and Pfam domain information. Much of the information here is also present in COSMIC.
+  2. cBioPortal for Cancer Genomics: (<https://www.cbioportal.org/>). cBioPortal is a useful database to search for various protein mutations and Pfam domain information. Much of the information here is also present in COSMIC.
   3. UniProt: (<https://www.uniprot.org/>). Much of the information in UniProt is now found in COSMIC but UniProt can be a near "one stop shop" for information in proteins including: Sequence, Catalytic Activity (if known), binding/active site, cellular location, disease, amino acid changes, tissue expression, and more. It also includes links to various other databases.
   4. International Agency for Research on Cancer TP53 Database: IARC TP53 Database: (<http://p53.iarc.fr/>). This is a WHO data base that: "The IARC TP53 Database compiles various types of data and information on human TP53 gene variations related to cancer. Data are compiled from the peer-reviewed literature and from generalist databases." This database is useful when assessing various TP53 mutations identified from NGS.
-  5. Expertpath: (<https://www.expertpath.com/>). This site should be familiar to all the residents and provides and excellent overview of almost every disease including key molecular diagnostic and prognostic factors. 
+  5. Clinvar: (<https://www.ncbi.nlm.nih.gov/clinvar/>). Clinvar is a database that "aggregates information about genomic variation and its relationship to human health. The database includes many common and uncommon gene variants. Many of the variants include links to the diseases that are associated with them. In addition, it  uses a [gold star](https://www.ncbi.nlm.nih.gov/clinvar/docs/details/) system to help assist with determining the status (eg. Pathogenic, non-pathogenic). Clinvar can be difficult the search and understand but NCBI made a short [YouTube video] (https://www.youtube.com/watch?v=A8G3ej83ZgU) that explains the basics. It is a bit outdated but provides an overview of how to successfully use Clinvar.
+  6. Sequence Variant Nomenclature: (<http://varnomen.hgvs.org/>). DNA, RNA, and Protein nomenclature can be confusing at first. This site describes standard variant nomenclature most commonly seen in genetic reports including NGS. A brief overview of important terms and nomenclature is below: 
+
+- Changes in coding DNA are indicated by a c.position number old nucleotide > new nucleotide
+- Changes in proteins are identified by p. Old amino acid_Position number_new_amino acid (eg. BRAF V600E), NOTE: The single letter and three-letter codes are acceptable. The three-letter code may lead to lower errors in transcribing and understanding the report. 
+- Missense mutations: A change of one amino acid (eg. _JAK2_ p.V617F)
+- Non-sense mutations: A premature stop codon indicated by a * (eg. _WT1_ p.W26*),
+- Frameshift mutations: A gain or loss of nucleotide causing a change in the 3 codon reading frame (eg. p.Arg97fs*9 indicating a stop codon is generated); _Note: The nomenclature starts from the first amino acid changed and not from the first codon changed_. 
+
+
+7. Expertpath: (<https://www.expertpath.com/>). This site should be familiar to all the residents and provides and excellent overview of almost every disease including key molecular diagnostic and prognostic factors. 
   
 
 
