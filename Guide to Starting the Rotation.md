@@ -2,7 +2,7 @@
 title: "Useful References for Starting the Molecular Pathology Rotation"
 author: "Benjamin Saylor, MD _(bsaylor@uabmc.edu)_"
 
-date: "1/6/2020"
+date: "5/6/2020"
 output:
   pdf_document:
     number_sections: TRUE
