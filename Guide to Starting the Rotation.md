@@ -42,7 +42,12 @@ On the ASCP website (<http://www.pathologylearning.org/trig/resources>) are onli
 
 __This curriculum has been designed specifically for residents with little to no experience in molecular or genomic medicine and provides a good foundation of knowledge for the RISE exam and AP/CP board exams.__
 
+__There is one key issue currently. The TRIG webpage uses _Bit.ly_ links which are blocked by the UAB firewall. TRIG is working on adding direct links to their webpage. If you need the direct links please contant me at Btsaylor@uabmc.edu and I can provide the current links.__
+
+
 _Note: I have served on the TRIG working committee and have helped with the creation of this material. I have no financial interest in TRIG or ASCP._
+
+
 
 
 # Books
@@ -52,7 +57,7 @@ There are many books available that cover the basics of Molecular Genetic Pathol
 1. _Diagnostic Molecular Pathology in Practice: A Case-Based Approach_. This book is an older text with some outdated methodology. However, the solid tumor and hematopathology chapters cover a wide variety of methodologies. These chapters are very useful to understand how some of the tests work, what the underlying genetic issue is, and how to interpret the tests. Additionally, the book is readable.
    
    What to read:
-    - Skip the first sections focusing on germline testing. This information is more important to people in the field of genetic medicine. Some of this is useful to the practicing pathologist on what diseases are associated with what syndromes, but this information can be found in other books/Expertpath in short formats.
+    - __Skip the first sections focusing on germline testing.__ This information is more important to people in the field of genetic medicine. Some of this is useful to the practicing pathologist on diseases and phenotypes associated with specific syndromes, but this information can be found in other books or Expertpath in shorter formats.
     - Read the solid tumor chapters: The methodology maybe older but the chapters focus on the main mutations, why we test for them, and why the clinicians care about the results.
     - If time permits: The Hemepath chapters can be useful but this area moves so quickly, that some chapters are incomplete. However, for an very short overview, it can be a valuable "jumping off" point before moving on to a more comprehensive hematopathology text.
 
